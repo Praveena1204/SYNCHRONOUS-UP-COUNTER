@@ -1,6 +1,6 @@
 ## NAME: A.PRAVEENA
 ## REG NO: 24006885
-### Experiment no.7: IMPLEMENTATION OF SYNCHRONOUS-UP-COUNTER
+## Experiment no.7: IMPLEMENTATION OF SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -46,7 +46,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Screenshot 2025-01-03 210828](https://github.com/user-attachments/assets/af6fb47a-dfdd-4b63-83d4-24ac5560ff1e)
+![Screenshot 2025-01-06 201706](https://github.com/user-attachments/assets/8a165f2d-dfd2-48b1-a6ce-93a24c336de5)
+
 
 **TRUTH TABLE**
 

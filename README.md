@@ -1,6 +1,6 @@
 ## NAME: A.PRAVEENA
 ## REG NO: 24006885
-### Experiment no.7: Implementation of SYNCHRONOUS-UP-COUNTER
+### Experiment no.7: IMPLEMENTATION OF SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
